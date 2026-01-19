@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>Capture d’écran 2026-01-14 à 16.50.48.png</fileName>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT3332" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1198" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="690"
+          HEIGHT="1062"
+          PHYSICAL_IMG_NR="6"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="690"
+                  HEIGHT="1062">
+        <TextBlock HPOS="157"
+                   VPOS="32"
+                   WIDTH="318"
+                   HEIGHT="48"
+                   ID="eSc_textblock_90e116b8"
+                   TAGREFS="BT18">
+          <Shape><Polygon POINTS="157 32 157 80 475 80 475 32"/></Shape>
+          <TextLine ID="eSc_line_44301bbd"
+                    TAGREFS="LT1198"
+                    BASELINE="157 59 345 62 458 67" 
+                    HPOS="156"
+                    VPOS="35"
+                    WIDTH="302"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="316 37 311 37 295 40 292 37 286 37 280 37 275 37 269 37 263 37 257 37 255 36 244 40 236 36 233 36 228 36 220 39 204 35 204 35 198 35 192 35 186 35 180 35 174 35 168 35 162 35 162 35 157 37 157 59 156 67 183 63 197 69 197 69 198 69 218 64 233 69 234 69 234 69 235 69 242 66 252 70 253 70 253 70 338 67 347 72 347 72 348 72 348 72 349 72 362 67 370 71 371 71 371 71 372 71 386 68 399 73 400 73 457 74 458 67 458 45 408 40 407 40 407 40 393 43 371 40 371 40 370 40 365 43 357 39 356 39 355 39 324 41 317 37 316 37"/></Shape>
+            <String ID="segment_0"
+                    CONTENT="DE"
+                    HPOS="164"
+                    VPOS="35"
+                    WIDTH="28"
+                    HEIGHT="32"
+                    WC="0.9993">
+              <Glyph ID="char_0"
+                     CONTENT="D"
+                     HPOS="164"
+                     VPOS="35"
+                     WIDTH="0"
+                     HEIGHT="31"
+                     GC="0.9993">
+                <Shape><Polygon POINTS="164 35 164 66 164 66 164 35"/></Shape>
+              </Glyph>
+              <Glyph ID="char_1"
+                     CONTENT="E"
+                     HPOS="192"
+                     VPOS="35"
+                     WIDTH="0"
+                     HEIGHT="32"
+                     GC="1.0000">
+                <Shape><Polygon POINTS="192 35 192 67 192 67 192 35"/></Shape>
+              </Glyph>
+            </String>
+            <SP ID="segment_1"
+                HPOS="219"
+                VPOS="38"
+                WIDTH="2"
+                HEIGHT="27"/>
+            <String ID="segment_2"
+                    CONTENT="IEAN"
+                    HPOS="234"
+                    VPOS="36"
+                    WIDTH="71"
+                    HEIGHT="34"
+                    WC="0.9999">
+              <Glyph ID="char_0"
+                     CONTENT="I"
+                     HPOS="234"
+                     VPOS="36"
+                     WIDTH="0"
+                     HEIGHT="33"
+                     GC="0.9999">
+                <Shape><Polygon POINTS="234 36 234 69 234 69 234 36"/></Shape>
+              </Glyph>
+              <Glyph ID="char_1"
+                     CONTENT="E"
+                     HPOS="254"
+                     VPOS="36"
+                     WIDTH="0"
+                     HEIGHT="34"
+                     GC="1.0000">
+                <Shape><Polygon POINTS="254 36 254 70 254 70 254 36"/></Shape>
+              </Glyph>
+              <Glyph ID="char_2"
+                     CONTENT="A"
+                     HPOS="279"
+                     VPOS="37"
+                     WIDTH="0"
+                     HEIGHT="32"
+                     GC="1.0000">
+                <Shape><Polygon POINTS="279 37 279 69 279 69 279 37"/></Shape>
+              </Glyph>
+              <Glyph ID="char_3"
+                     CONTENT="N"
+                     HPOS="305"
+                     VPOS="38"
+                     WIDTH="0"
+                     HEIGHT="30"
+                     GC="1.0000">
+                <Shape><Polygon POINTS="305 38 305 68 305 68 305 38"/></Shape>
+              </Glyph>
+            </String>
+            <SP ID="segment_3"
+                HPOS="332"
+                VPOS="40"
+                WIDTH="4"
+                HEIGHT="27"/>
+            <String ID="segment_4"
+                    CONTENT="VVIER"
+                    HPOS="347"
+                    VPOS="39"
+                    WIDTH="94"
+                    HEIGHT="35"
+                    WC="0.9995">
+              <Glyph ID="char_0"
+                     CONTENT="V"
+                     HPOS="347"
+                     VPOS="39"
+                     WIDTH="1"
+                     HEIGHT="33"
+                     GC="0.9995">
+                <Shape><Polygon POINTS="348 39 347 72 347 72 348 39"/></Shape>
+              </Glyph>
+              <Glyph ID="char_1"
+                     CONTENT="V"
+                     HPOS="374"
+                     VPOS="41"
+                     WIDTH="1"
+                     HEIGHT="30"
+                     GC="1.0000">
+                <Shape><Polygon POINTS="375 41 374 71 374 71 375 41"/></Shape>
+              </Glyph>
+              <Glyph ID="char_2"
+                     CONTENT="I"
+                     HPOS="400"
+                     VPOS="41"
+                     WIDTH="1"
+                     HEIGHT="32"
+                     GC="1.0000">
+                <Shape><Polygon POINTS="401 41 400 73 400 73 401 41"/></Shape>
+              </Glyph>
+              <Glyph ID="char_3"
+                     CONTENT="E"
+                     HPOS="418"
+                     VPOS="41"
+                     WIDTH="1"
+                     HEIGHT="32"
+                     GC="0.9998">
+                <Shape><Polygon POINTS="419 41 418 73 418 73 419 41"/></Shape>
+              </Glyph>
+              <Glyph ID="char_4"
+                     CONTENT="R"
+                     HPOS="440"
+                     VPOS="43"
+                     WIDTH="1"
+                     HEIGHT="31"
+                     GC="1.0000">
+                <Shape><Polygon POINTS="441 43 440 74 440 74 441 43"/></Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="22"
+                   VPOS="72"
+                   WIDTH="556"
+                   HEIGHT="377"
+                   ID="eSc_textblock_e4ff1566"
+                   TAGREFS="BT12">
+          <Shape><Polygon POINTS="23 72 22 449 575 436 578 87"/></Shape>
+          <TextLine ID="eSc_line_58f5966b"
+                    TAGREFS="LT1198"
+                    BASELINE="28 96 131 96 563 106" 
+                    HPOS="28"
+                    VPOS="71"
+                    WIDTH="535"
+                    HEIGHT="45">
+            <Shape><Polygon POINTS="52 72 47 72 28 77 28 96 28 105 64 106 64 106 65 106 72 103 88 106 89 106 89 106 97 103 141 107 141 107 158 104 162 108 163 108 164 108 164 109 188 109 188 108 189 108 203 104 240 104 283 105 297 111 298 111 298 111 299 111 315 106 325 110 325 110 401 113 402 113 419 110 440 113 441 113 442 113 453 110 462 114 462 114 463 114 463 114 474 110 535 116 536 116 562 111 563 106 563 89 521 89 509 81 509 81 508 81 508 81 471 83 429 79 428 79 427 79 413 86 386 82 386 82 385 82 375 84 349 77 348 77 326 77 326 77 325 77 309 83 269 83 241 75 240 75 240 75 239 75 214 82 160 73 159 73 159 73 158 73 149 80 133 76 132 76 132 76 85 79 56 71 52 72"/></Shape>
+            <String CONTENT="eſtre, trop aigrement : car il eſt impoſſible à l’hom¬"
+                    HPOS="28"
+                    VPOS="71"
+                    WIDTH="535"
+                    HEIGHT="45"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_0bfb96de"
+                    TAGREFS="LT1198"
+                    BASELINE="27 127 136 126 561 137" 
+                    HPOS="27"
+                    VPOS="104"
+                    WIDTH="534"
+                    HEIGHT="44">
+            <Shape><Polygon POINTS="27 127 27 132 33 135 34 135 34 135 118 135 126 138 126 138 127 138 150 134 163 137 164 137 164 137 203 135 230 140 230 140 248 136 344 138 352 142 352 142 353 142 406 141 412 144 413 144 413 144 430 141 441 144 442 144 442 145 442 144 443 144 453 141 462 144 463 144 463 144 532 143 540 147 541 147 541 148 561 148 561 137 561 120 537 120 510 114 509 114 509 114 494 118 486 113 486 113 485 113 485 113 484 113 468 118 409 118 383 110 383 110 382 110 362 113 350 110 349 110 348 110 348 110 338 115 329 109 329 109 328 109 328 109 282 114 273 109 273 109 272 109 272 109 271 109 255 113 204 106 204 106 149 110 102 104 101 104 100 104 82 109 27 109 27 127"/></Shape>
+            <String CONTENT="me qui eſt tant ſoit peu touche de l’honneur de Dieu,"
+                    HPOS="27"
+                    VPOS="104"
+                    WIDTH="534"
+                    HEIGHT="44"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_cf2c006a"
+                    TAGREFS="LT1198"
+                    BASELINE="29 157 167 157 563 166" 
+                    HPOS="28"
+                    VPOS="133"
+                    WIDTH="535"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="29 157 28 162 561 172 563 166 563 151 553 147 553 147 552 147 551 147 545 150 488 146 487 146 437 147 428 141 427 141 427 141 415 141 414 141 414 141 396 147 370 144 369 144 368 144 361 146 344 139 344 139 298 138 297 138 194 143 186 138 185 138 185 138 184 138 184 138 183 138 180 141 158 136 157 136 157 136 140 141 92 141 57 141 40 133 40 133 39 133 38 133 38 133 29 139 29 157"/></Shape>
+            <String CONTENT="de voir ou lire tant de blaſphemes ſans entrer en"
+                    HPOS="28"
+                    VPOS="133"
+                    WIDTH="535"
+                    HEIGHT="39"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_993c7006"
+                    TAGREFS="LT1198"
+                    BASELINE="28 186 561 196" 
+                    HPOS="27"
+                    VPOS="164"
+                    WIDTH="534"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="27 191 54 196 55 196 87 192 166 197 167 197 167 197 175 194 198 198 198 198 217 195 223 200 224 200 224 200 225 200 270 196 341 201 342 201 358 198 386 201 387 201 402 200 406 203 407 203 407 203 408 203 470 201 544 205 544 205 560 202 561 196 560 179 528 173 528 173 527 173 517 179 499 179 482 175 482 175 441 177 433 171 432 171 432 171 431 171 404 177 359 173 358 173 342 175 322 169 322 169 321 169 321 169 313 172 275 168 274 168 155 172 138 166 138 166 137 166 116 168 100 165 100 165 99 165 99 165 90 171 56 164 56 164 55 164 54 164 46 169 28 164 28 186 27 191"/></Shape>
+            <String CONTENT="iuſte cholere : ce qui eſt aduenu meſmes aux plus"
+                    HPOS="27"
+                    VPOS="164"
+                    WIDTH="534"
+                    HEIGHT="41"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_16b17ab8"
+                    TAGREFS="LT1198"
+                    BASELINE="27 216 563 225" 
+                    HPOS="27"
+                    VPOS="195"
+                    WIDTH="536"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="27 216 27 223 99 229 99 229 100 229 109 225 148 228 149 228 163 225 175 230 175 230 176 230 312 228 325 233 326 233 326 233 371 229 384 234 384 234 385 234 386 234 395 231 420 234 420 234 505 231 528 236 528 236 562 231 563 225 562 209 528 202 528 202 527 202 527 202 518 208 501 208 493 202 492 202 492 202 491 202 459 207 447 201 447 201 446 201 421 207 360 206 350 200 350 200 349 200 348 200 323 204 295 199 295 199 294 199 281 204 275 200 275 200 274 200 273 200 257 203 243 198 243 198 242 198 242 198 229 204 208 204 201 199 200 199 200 199 199 199 198 199 188 202 152 202 144 197 144 197 143 197 122 196 121 196 121 196 100 201 68 200 63 195 62 195 61 195 27 195 27 216"/></Shape>
+            <String CONTENT="ſaints perſonnages, &amp; aux Prophetes parlant de telles"
+                    HPOS="27"
+                    VPOS="195"
+                    WIDTH="536"
+                    HEIGHT="41"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_ce53e272"
+                    TAGREFS="LT1198"
+                    BASELINE="27 247 561 254" 
+                    HPOS="27"
+                    VPOS="225"
+                    WIDTH="534"
+                    HEIGHT="39">
+            <Shape><Polygon POINTS="27 247 27 252 98 256 99 256 160 254 177 259 177 259 178 259 223 256 254 259 255 259 319 257 348 261 349 261 455 259 472 263 472 263 473 263 504 261 516 264 517 264 517 264 561 259 561 254 561 235 543 232 543 232 542 232 528 237 520 232 520 232 519 232 518 232 518 232 508 236 496 231 495 231 495 231 476 234 463 231 463 231 462 231 462 231 461 231 452 237 428 237 386 230 385 230 384 230 384 230 375 236 365 236 355 230 355 230 354 230 354 230 353 230 337 234 329 229 328 229 328 229 327 229 301 234 214 234 206 227 205 227 205 227 204 227 166 233 158 227 157 227 157 227 156 227 132 232 106 232 97 227 97 227 96 227 96 227 81 231 72 225 71 225 70 225 40 225 40 225 39 225 27 230 27 247"/></Shape>
+            <String CONTENT="abhominations, la memoire deſquelles me faict dreſ¬"
+                    HPOS="27"
+                    VPOS="225"
+                    WIDTH="534"
+                    HEIGHT="39"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_f119c33f"
+                    TAGREFS="LT1198"
+                    BASELINE="27 277 561 285" 
+                    HPOS="26"
+                    VPOS="254"
+                    WIDTH="535"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="27 275 27 277 26 282 33 286 33 286 34 286 34 286 35 286 48 283 75 288 76 289 95 289 95 288 96 288 105 283 181 284 186 287 187 287 187 287 188 287 218 285 231 290 232 290 233 290 233 290 245 287 261 290 262 290 358 289 366 292 367 292 367 292 368 292 378 289 397 293 397 293 429 289 453 292 453 292 481 290 486 294 487 294 488 294 488 294 514 289 545 295 546 295 560 292 561 285 560 270 540 270 527 261 526 261 525 261 525 261 524 261 505 267 493 264 492 264 492 264 491 264 481 269 466 269 453 260 452 260 452 260 451 260 450 260 430 267 416 264 415 264 414 264 414 264 405 267 363 267 351 259 351 259 350 259 350 259 321 263 311 258 310 258 273 257 272 257 234 264 205 257 204 257 204 257 203 257 203 257 191 264 170 256 169 256 169 256 139 263 126 256 126 256 125 256 111 256 110 256 110 256 97 263 92 260 91 260 90 260 90 260 80 263 69 254 68 254 67 254 67 254 66 254 43 263 29 263 27 275"/></Shape>
+            <String CONTENT="ſer le poil en la teſte, &amp; la ialouſie, que chacun doit"
+                    HPOS="26"
+                    VPOS="254"
+                    WIDTH="535"
+                    HEIGHT="41"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4c6dedaf"
+                    TAGREFS="LT1198"
+                    BASELINE="27 309 158 308 560 315" 
+                    HPOS="26"
+                    VPOS="286"
+                    WIDTH="534"
+                    HEIGHT="37">
+            <Shape><Polygon POINTS="27 295 27 309 26 315 215 319 216 319 216 319 224 316 230 319 231 319 231 319 259 317 310 320 311 320 350 318 361 321 361 321 447 322 447 322 471 320 476 323 477 323 478 323 560 320 560 315 560 299 477 292 476 292 476 292 461 295 450 292 449 292 449 292 448 292 435 297 418 292 417 292 417 292 416 292 403 296 373 296 352 290 351 290 329 290 329 290 328 290 315 295 306 292 305 292 305 292 262 294 249 289 248 289 247 289 227 293 216 288 215 288 201 288 200 288 200 288 189 293 167 290 167 290 134 292 129 289 129 289 128 289 128 289 127 289 118 292 102 286 101 286 100 286 100 286 82 291 73 287 73 287 72 287 28 290 27 295"/></Shape>
+            <String CONTENT="auoir ſur toutes choſes, que l’honneur de Dieu ne"
+                    HPOS="26"
+                    VPOS="286"
+                    WIDTH="534"
+                    HEIGHT="37"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_fe8a8cb6"
+                    TAGREFS="LT1198"
+                    BASELINE="26 339 185 339 558 343" 
+                    HPOS="25"
+                    VPOS="316"
+                    WIDTH="533"
+                    HEIGHT="38">
+            <Shape><Polygon POINTS="26 339 25 343 42 348 43 348 69 345 77 348 78 348 79 348 121 345 128 348 128 348 129 348 129 348 139 345 207 345 218 351 219 351 220 351 257 346 284 351 285 351 306 348 332 348 341 352 341 352 342 352 403 352 403 352 403 352 413 349 417 352 418 352 419 352 442 353 443 353 484 351 532 354 533 354 558 349 558 343 558 328 525 326 509 320 509 320 508 320 508 320 496 326 481 326 469 322 469 322 468 322 468 322 459 326 450 323 449 323 449 323 448 323 447 323 442 326 396 319 396 319 395 319 394 319 384 326 328 326 322 322 321 322 321 322 285 325 268 318 267 318 267 318 266 318 256 323 246 318 245 318 244 318 244 318 232 324 213 324 200 319 199 319 198 319 198 319 187 322 177 317 176 317 175 317 63 320 56 316 56 316 55 316 54 316 26 316 26 339"/></Shape>
+            <String CONTENT="ſoit ainſi foulé aux pieds, par ceux là qui ſouſtien¬"
+                    HPOS="25"
+                    VPOS="316"
+                    WIDTH="533"
+                    HEIGHT="38"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_19ee3c3f"
+                    TAGREFS="LT1198"
+                    BASELINE="27 368 559 374" 
+                    HPOS="26"
+                    VPOS="345"
+                    WIDTH="533"
+                    HEIGHT="43">
+            <Shape><Polygon POINTS="27 368 26 377 45 379 46 379 46 379 54 377 69 383 70 383 70 383 71 383 80 379 94 381 95 381 111 377 126 380 127 380 128 380 134 377 203 377 229 384 230 384 230 384 231 384 231 384 241 378 260 378 270 385 270 385 271 385 272 385 286 382 322 386 323 386 324 386 350 379 363 384 364 384 364 384 378 381 385 387 386 387 386 387 387 387 411 387 411 387 411 387 422 381 446 387 446 387 447 388 475 388 475 387 476 387 488 382 502 388 502 388 503 388 558 381 559 374 559 357 533 351 532 351 532 351 531 351 524 354 518 350 517 350 517 350 516 350 515 350 503 356 349 355 323 347 322 347 272 347 271 347 270 347 263 351 243 346 243 346 242 346 230 352 151 346 151 346 150 346 141 351 116 352 83 345 82 345 82 345 67 351 63 348 62 348 61 348 61 348 27 350 27 368"/></Shape>
+            <String CONTENT="nent les meſchancetés, blaſphemes, &amp; impunité des"
+                    HPOS="26"
+                    VPOS="345"
+                    WIDTH="533"
+                    HEIGHT="43"
+                    ></String>
+          </TextLine>
+          <TextLine ID="eSc_line_69f12b5c"
+                    TAGREFS="LT1198"
+                    BASELINE="28 400 114 398" 
+                    HPOS="27"
+                    VPOS="377"
+                    WIDTH="87"
+                    HEIGHT="41">
+            <Shape><Polygon POINTS="28 400 28 410 33 410 41 417 41 417 41 417 42 417 43 418 57 418 57 417 57 417 74 411 81 414 82 414 82 414 83 414 83 414 83 413 84 413 86 410 93 413 94 413 95 413 114 408 114 398 113 382 102 379 102 379 101 379 77 383 67 379 67 379 66 379 66 379 54 382 47 377 47 377 47 377 46 377 27 377 28 400"/></Shape>
+            <String ID="segment_0"
+                    CONTENT="Sorcies."
+                    HPOS="33"
+                    VPOS="377"
+                    WIDTH="76"
+                    HEIGHT="41"
+                    WC="0.9967">
+              <Glyph ID="char_0"
+                     CONTENT="S"
+                     HPOS="33"
+                     VPOS="377"
+                     WIDTH="1"
+                     HEIGHT="34"
+                     GC="0.9999">
+                <Shape><Polygon POINTS="33 377 34 411 34 411 33 377"/></Shape>
+              </Glyph>
+              <Glyph ID="char_1"
+                     CONTENT="o"
+                     HPOS="51"
+                     VPOS="380"
+                     WIDTH="0"
+                     HEIGHT="38"
+                     GC="1.0000">
+                <Shape><Polygon POINTS="51 380 51 418 51 418 51 380"/></Shape>
+              </Glyph>
+              <Glyph ID="char_2"
+                     CONTENT="r"
+                     HPOS="65"
+                     VPOS="379"
+                     WIDTH="0"
+                     HEIGHT="35"
+                     GC="0.9990">
+                <Shape><Polygon POINTS="65 379 65 414 65 414 65 379"/></Shape>
+              </Glyph>
+              <Glyph ID="char_3"
+                     CONTENT="c"
+                     HPOS="73"
+                     VPOS="381"
+                     WIDTH="0"
+                     HEIGHT="30"
+                     GC="0.9997">
+                <Shape><Polygon POINTS="73 381 73 411 73 411 73 381"/></Shape>
+              </Glyph>
+              <Glyph ID="char_4"
+                     CONTENT="i"
+                     HPOS="84"
+                     VPOS="382"
+                     WIDTH="0"
+                     HEIGHT="31"
+                     GC="0.9967">
+                <Shape><Polygon POINTS="84 382 84 413 84 413 84 382"/></Shape>
+              </Glyph>
+              <Glyph ID="char_5"
+                     CONTENT="e"
+                     HPOS="92"
+                     VPOS="381"
+                     WIDTH="0"
+                     HEIGHT="32"
+                     GC="1.0000">
+                <Shape><Polygon POINTS="92 381 92 413 92 413 92 381"/></Shape>
+              </Glyph>
+              <Glyph ID="char_6"
+                     CONTENT="s"
+                     HPOS="101"
+                     VPOS="379"
+                     WIDTH="0"
+                     HEIGHT="32"
+                     GC="0.9999">
+                <Shape><Polygon POINTS="101 379 101 411 101 411 101 379"/></Shape>
+              </Glyph>
+              <Glyph ID="char_7"
+                     CONTENT="."
+                     HPOS="109"
+                     VPOS="381"
+                     WIDTH="0"
+                     HEIGHT="28"
+                     GC="0.9997">
+                <Shape><Polygon POINTS="109 381 109 409 109 409 109 381"/></Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="519"
+                   VPOS="52"
+                   WIDTH="55"
+                   HEIGHT="31"
+                   ID="eSc_textblock_8d223aa8"
+                   TAGREFS="BT15">
+          <Shape><Polygon POINTS="519 52 519 83 574 83 574 52"/></Shape>
+          <TextLine ID="eSc_line_564ec4fd"
+                    TAGREFS="LT1198"
+                    BASELINE="524 69 561 70" 
+                    HPOS="523"
+                    VPOS="52"
+                    WIDTH="38"
+                    HEIGHT="30">
+            <Shape><Polygon POINTS="524 69 523 77 544 82 544 82 545 82 560 76 561 70 561 54 524 52 524 69"/></Shape>
+            <String ID="segment_0"
+                    CONTENT="252"
+                    HPOS="530"
+                    VPOS="52"
+                    WIDTH="26"
+                    HEIGHT="30"
+                    WC="0.9998">
+              <Glyph ID="char_0"
+                     CONTENT="2"
+                     HPOS="530"
+                     VPOS="52"
+                     WIDTH="0"
+                     HEIGHT="27"
+                     GC="0.9998">
+                <Shape><Polygon POINTS="530 52 530 79 530 79 530 52"/></Shape>
+              </Glyph>
+              <Glyph ID="char_1"
+                     CONTENT="5"
+                     HPOS="543"
+                     VPOS="53"
+                     WIDTH="0"
+                     HEIGHT="29"
+                     GC="1.0000">
+                <Shape><Polygon POINTS="543 53 543 82 543 82 543 53"/></Shape>
+              </Glyph>
+              <Glyph ID="char_2"
+                     CONTENT="2"
+                     HPOS="556"
+                     VPOS="54"
+                     WIDTH="0"
+                     HEIGHT="24"
+                     GC="0.9999">
+                <Shape><Polygon POINTS="556 54 556 78 556 78 556 54"/></Shape>
+              </Glyph>
+            </String>
+          </TextLine>
+        </TextBlock>
+        <TextBlock HPOS="224"
+                   VPOS="344"
+                   WIDTH="163"
+                   HEIGHT="169"
+                   ID="eSc_textblock_ca7ca7d1"
+                   TAGREFS="BT20">
+          <Shape><Polygon POINTS="387 513 387 344 224 344 224 513"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="166"
+                   VPOS="539"
+                   WIDTH="276"
+                   HEIGHT="192"
+                   ID="eSc_textblock_ff2ddfba"
+                   TAGREFS="BT11">
+          <Shape><Polygon POINTS="166 539 166 731 442 731 442 539"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
